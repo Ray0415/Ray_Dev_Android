@@ -1,2 +1,5 @@
 # Ray_Dev_Android
-Android development repository
+
+Hi!
+
+I am a android application developer.
